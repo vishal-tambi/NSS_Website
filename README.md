@@ -1,2 +1,2 @@
 # Responsive NSS Website 
-# Mnade By Vishal Tambi
+# Made By Vishal Tambi
